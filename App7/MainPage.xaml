@@ -19,5 +19,7 @@
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
+
+        <TextBox PreventKeyboardDisplayOnProgrammaticFocus="True" Width="200" Height="30"/>
     </StackPanel>
 </Page>
